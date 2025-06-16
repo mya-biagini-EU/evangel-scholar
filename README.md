@@ -2,6 +2,8 @@
 
 A study companion app built during my introduction to coding at Evangel University.
 
+## Screenshots![Homepage](evangel-scholar-homepage.png)![Flashcards Feature](flashcards-demo.png)
+
 ## What I Built
 
 Evangel Scholar is a React-based web application that helps students study more effectively. Features include:
